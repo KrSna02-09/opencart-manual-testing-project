@@ -1,7 +1,3 @@
-# opencart-manual-testing-project
-Manual testing project on OpenCart e-commerce app | 25 test cases across 9 modules | Test Plan · Bug Reports · RTM · Summary Report | Techniques: BVA, EP, Exploratory Testing
-
-
 # OpenCart Manual Testing Project
 
 A complete manual testing project on the OpenCart e-commerce 
