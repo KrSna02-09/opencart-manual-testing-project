@@ -96,8 +96,3 @@ core QA skills.
 
 ---
 
-## Project File
-
-Download the full project file (Test Plan + Test Cases + 
-Bug Report + RTM + Summary Report):
-👉 [Manual Testing Project-1.xlsx](./Manual Testing Project-1.xlsx)
